@@ -137,6 +137,17 @@ export const academicHighlights: AcademicModule[] = [
 
 export const workExperience: WorkExperience[] = [
   {
+    role: "IT Service Desk Smart Bar Assistant",
+    company: "University of Nottingham (Digital & Technology Services)",
+    period: "2026 - Present",
+    points: [
+      "Provide in-person first-line technical support to university staff and students across campus.",
+      "Troubleshoot enterprise networking (eduroam/Wi-Fi), multi-factor authentication, Microsoft 365, and institutional services.",
+      "Manage receptionist operations for the student Laptopn Loan & Repair service.",
+      "Diagnose client operating system issues acrosss Windows, macOS, iOS, and Android devices.",
+    ],
+  },
+  {
     role: "Technology & Engineering Intern",
     company: "Bright Network IEUK",
     period: "2025",
